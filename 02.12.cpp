@@ -1,7 +1,7 @@
 #include <iostream>
 #include <random>
 #include <cstdlib>
-
+//
 using namespace std;
 
 int rzut()
